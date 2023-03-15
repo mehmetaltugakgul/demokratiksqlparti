@@ -1,14 +1,14 @@
-# Demokratik SQL Partisi Tüzüğü
+# Demokratik SQL Parti Tüzüğü
 
 ## Amaç ve Hedefler
 
-1. Demokratik SQL Partisi, ülkenin bütünlüğünü, milletin egemenliğini, demokratik ve laik cumhuriyeti, insan haklarını, hukukun üstünlüğünü, sosyal adaleti, ekonomik kalkınmayı, çevreyi korumayı, savunma ve güvenlik politikalarını benimser.
-2. Demokratik SQL Partisi, toplumun tüm kesimlerinin talep ve ihtiyaçlarını göz önünde bulundurarak, ülkenin genel çıkarları doğrultusunda siyasi, sosyal ve ekonomik politikalar geliştirir.
-3. Demokratik SQL Partisi, ülkeyi yönetmek üzere seçildiğinde, halkın güvenini ve desteğini korumak için çalışır.
+1. Demokratik SQL Parti, ülkenin bütünlüğünü, milletin egemenliğini, demokratik ve laik cumhuriyeti, insan haklarını, hukukun üstünlüğünü, sosyal adaleti, ekonomik kalkınmayı, çevreyi korumayı, savunma ve güvenlik politikalarını benimser.
+2. Demokratik SQL Parti, toplumun tüm kesimlerinin talep ve ihtiyaçlarını göz önünde bulundurarak, ülkenin genel çıkarları doğrultusunda siyasi, sosyal ve ekonomik politikalar geliştirir.
+3. Demokratik SQL Parti, ülkeyi yönetmek üzere seçildiğinde, halkın güvenini ve desteğini korumak için çalışır.
 
 ## Üyelik
 
-1. Demokratik SQL Partisi'ne herkes üye olabilir.
+1. Demokratik SQL Parti'ne herkes üye olabilir.
 2. Üyelik için gerekli koşullar:
     - TC vatandaşı olmak
     - 18 yaşını doldurmuş olmak
